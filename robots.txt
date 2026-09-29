@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.dvlpofx.cn/sitemap.xml
